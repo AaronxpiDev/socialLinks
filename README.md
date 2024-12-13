@@ -37,7 +37,7 @@ Want some support on the challenge? [Join our community](https://www.frontendmen
 
 ### Links
 
-- Live Site: [click here to see prra :v](https://xpilinks.netlify.app/)
+- Live Site: [click here to see](https://xpilinks.netlify.app/)
 
 ## My process
 
